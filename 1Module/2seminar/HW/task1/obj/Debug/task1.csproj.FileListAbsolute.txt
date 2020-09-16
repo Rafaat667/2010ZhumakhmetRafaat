@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\bin\Debug\task1.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\bin\Debug\task1.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\bin\Debug\task1.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\obj\Debug\task1.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\obj\Debug\task1.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\task1\obj\Debug\task1.pdb

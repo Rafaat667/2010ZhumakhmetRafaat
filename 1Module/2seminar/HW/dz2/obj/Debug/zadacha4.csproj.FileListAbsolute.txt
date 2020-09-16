@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\bin\Debug\dz2.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\bin\Debug\dz2.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\bin\Debug\dz2.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\obj\Debug\zadacha4.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\obj\Debug\zadacha4.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\obj\Debug\dz2.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz2\obj\Debug\dz2.pdb

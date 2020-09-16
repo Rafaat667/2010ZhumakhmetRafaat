@@ -1,0 +1,13 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\ефыл3\bin\Debug\ефыл3.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\ефыл3\bin\Debug\ефыл3.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\ефыл3\bin\Debug\ефыл3.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\ефыл3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\ефыл3\obj\Debug\ефыл3.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\ефыл3\obj\Debug\ефыл3.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\bin\Debug\ефыл3.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\bin\Debug\ефыл3.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\bin\Debug\ефыл3.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\obj\Debug\task3.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\obj\Debug\ефыл3.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\ефыл3\obj\Debug\ефыл3.pdb

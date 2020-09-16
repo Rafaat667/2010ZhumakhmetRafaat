@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\bin\Debug\zapas.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\bin\Debug\zapas.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\bin\Debug\zapas.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\obj\Debug\zapas.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\obj\Debug\zapas.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\obj\Debug\zapas.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zapas\obj\Debug\zapas.pdb

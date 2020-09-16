@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\bin\Debug\task5.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\bin\Debug\task5.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\bin\Debug\task5.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\obj\Debug\task5.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\obj\Debug\task5.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task5\obj\Debug\task5.pdb

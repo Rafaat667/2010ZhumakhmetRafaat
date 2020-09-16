@@ -1,0 +1,6 @@
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task05\bin\Debug\task05.exe.config
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task05\bin\Debug\task05.exe
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task05\bin\Debug\task05.pdb
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task05\obj\Debug\task05.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task05\obj\Debug\task05.exe
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task05\obj\Debug\task05.pdb

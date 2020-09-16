@@ -1,0 +1,14 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\bin\Debug\zadacha7.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\bin\Debug\zadacha7.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\bin\Debug\zadacha7.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\obj\Debug\task1.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\obj\Debug\zadacha7.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\obj\Debug\zadacha7.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\CW\classwork\zadacha7\obj\Debug\task1.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\bin\Debug\zadacha7.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\bin\Debug\zadacha7.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\bin\Debug\zadacha7.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\obj\Debug\task1.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\obj\Debug\task1.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\obj\Debug\zadacha7.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\zadacha7\obj\Debug\zadacha7.pdb

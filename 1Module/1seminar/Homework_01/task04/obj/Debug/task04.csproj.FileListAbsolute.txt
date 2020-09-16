@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\bin\Debug\task04.exe.config
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\bin\Debug\task04.exe
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\bin\Debug\task04.pdb
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\obj\Debug\task04.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\obj\Debug\task04.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\obj\Debug\task04.exe
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\task04\obj\Debug\task04.pdb

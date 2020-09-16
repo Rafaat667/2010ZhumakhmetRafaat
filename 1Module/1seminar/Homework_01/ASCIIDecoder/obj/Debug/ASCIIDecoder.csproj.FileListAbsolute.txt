@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\bin\Debug\ASCIIDecoder.exe.config
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\bin\Debug\ASCIIDecoder.exe
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\bin\Debug\ASCIIDecoder.pdb
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\obj\Debug\ASCIIDecoder.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\obj\Debug\ASCIIDecoder.exe
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\obj\Debug\ASCIIDecoder.pdb
+X:\2010ZhumakhmetRafaat\1Module\1seminar\Homework_01\ASCIIDecoder\obj\Debug\ASCIIDecoder.csprojAssemblyReference.cache

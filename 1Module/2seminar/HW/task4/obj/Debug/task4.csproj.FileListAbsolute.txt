@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\bin\Debug\task4.exe.config
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\bin\Debug\task4.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\bin\Debug\task4.pdb
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\obj\Debug\task4.csprojAssemblyReference.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\obj\Debug\task4.exe
+X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\task4\obj\Debug\task4.pdb
