@@ -31,25 +31,25 @@ namespace zapas
                 Console.Clear(); //чищу консоль
 
                 int x, y, z;
-                string vv1, vv2, vv3;
+                //string vv1, vv2, vv3;
 
                 Console.WriteLine("Введите три числа");
 
-                vv1 = Console.ReadLine();
-                vv2 = Console.ReadLine();
-                vv3 = Console.ReadLine();
+
+                //vv2 = Console.ReadLine();
+                //vv3 = Console.ReadLine();
 
 
 
-                while (!(int.TryParse(vv1, out x)) || !(int.TryParse(vv2, out y)) || !(int.TryParse(vv3, out z)))  //если ввод некорректный
+                while (!(int.TryParse(Console.ReadLine(), out x)) || !(int.TryParse(Console.ReadLine(), out y)) || !(int.TryParse(Console.ReadLine(), out z)))  //если ввод некорректный
                 {
                      Console.WriteLine("Ошибка при вводе!");                                                       //альтернатива do while
-                    goto Finish;
+                    //goto Finish;
                 }
 
                 Console.WriteLine($"введенные числа в порядке возрастания: {myMethod(x, y, z)}");
 
-                Finish:
+                //Finish:
                 Console.WriteLine("Нажмите ESC чтобы выйти");
             }
             while (Console.ReadKey(true).Key != ConsoleKey.Escape);

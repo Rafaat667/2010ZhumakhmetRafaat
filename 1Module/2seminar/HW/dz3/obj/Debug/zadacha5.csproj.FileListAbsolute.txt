@@ -5,3 +5,10 @@ X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz3\obj\Debug\zadacha5.csprojAssembl
 X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz3\obj\Debug\zadacha5.csproj.CoreCompileInputs.cache
 X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz3\obj\Debug\dz3.exe
 X:\2010ZhumakhmetRafaat\1Module\2seminar\HW\dz3\obj\Debug\dz3.pdb
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\bin\Debug\dz3.exe.config
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\bin\Debug\dz3.exe
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\bin\Debug\dz3.pdb
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\obj\Debug\zadacha5.csprojAssemblyReference.cache
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\obj\Debug\zadacha5.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\obj\Debug\dz3.exe
+X:\2010ZhumakhmetR\1Module\2seminar\HW\dz3\obj\Debug\dz3.pdb
