@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\1Module",
-    "\\1Module\\1seminar",
-    "\\1Module\\1seminar\\Homework_01",
-    "\\1Module\\2seminar",
-    "\\1Module\\3seminar"
+    "\\1Module\\3seminar",
+    "\\1Module\\3seminar\\HW",
+    "\\1Module\\3seminar\\HW\\Homework03"
   ],
-  "SelectedNode": "\\1Module\\1seminar\\Homework_01\\Homework_01.sln",
+  "SelectedNode": "\\1Module\\3seminar\\HW\\Homework03\\Homework03.sln",
   "PreviewInSolutionExplorer": false
 }

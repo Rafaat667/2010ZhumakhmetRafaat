@@ -1,0 +1,7 @@
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\bin\Debug\task3.exe.config
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\bin\Debug\task3.exe
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\bin\Debug\task3.pdb
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\obj\Debug\task3.csprojAssemblyReference.cache
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\obj\Debug\task3.exe
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task3\obj\Debug\task3.pdb

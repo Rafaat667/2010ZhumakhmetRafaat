@@ -5,3 +5,10 @@ X:\2010ZhumakhmetRafaat\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.csp
 X:\2010ZhumakhmetRafaat\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
 X:\2010ZhumakhmetRafaat\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.exe
 X:\2010ZhumakhmetRafaat\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.pdb
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\bin\Debug\task2.exe.config
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\bin\Debug\task2.exe
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\bin\Debug\task2.pdb
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.csprojAssemblyReference.cache
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.exe
+X:\2010ZhumakhmetR\1Module\3seminar\HW\Homework03\task2\obj\Debug\task2.pdb

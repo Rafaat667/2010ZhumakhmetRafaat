@@ -8,30 +8,35 @@ namespace task2
 {
     class Program
     {
+        /*
+         * Написать метод, преобразующий число переданное в качестве параметра в число, 
+         * записанное теми же цифрами, но идущими в обратном порядке. 
+         * Например, 1024 - > 4201, 120 -> 21
+         */
         public static void reverseNumber(int a)
         {
+            //превращяем в стринг.
             string word = a.ToString();
+            //превращаем в массив.
             char[] array = word.ToCharArray();
+            //разворачиваем массив.
             Array.Reverse(array);
+            //превращаем в стринг обратно.
             word = new string(array);
-            int newA = int.Parse(word);
-
-            Console.WriteLine(newA);
+            //выводим ответ.
+            Console.WriteLine(word);
         }
         
         static void Main(string[] args)
         {
             int a;
-            string input = Console.ReadLine();
 
-            while (!int.TryParse(input, out a))
+            while (!int.TryParse(Console.ReadLine(), out a)) //ловим исключения.
             {
                 Console.WriteLine("incorrect input");
-                goto Finish;
             }
 
-            Finish:
-            reverseNumber(a);
+            reverseNumber(a); //вывод метода.
         }
     }
 }
